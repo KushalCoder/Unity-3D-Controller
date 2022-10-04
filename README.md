@@ -12,5 +12,6 @@ Then, drag your player object in the "Player Body" variable section.
 1. Go to your player object, click on add component and search "Character Controller" and hit Enter.
 2. Set the values as per your requirement. (optional)
 3. Click on add component and search "PlayerBindings" and hit Enter.
-4. Right click on your player object and name it as "Ground Chack" and drag it in the 
-5. Set the values as per your requirement. (optional)
+4. Right click on your player object and name it as "Ground Check" and drag it in the "Ground Check" section.
+5. Drag and drop the "Character Controller" component in the "Character Controller" section.
+6. Set the values as per your requirement. (optional)
