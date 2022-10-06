@@ -6,7 +6,7 @@
 To set the camera movement, click on add component and search "CameraBindings" and hit Enter.
 
 Then, drag your player object in the "Player Body" variable section.
-* (You can set its "Mouse Sensitivity" as per your requirement if you need to)
+* (You can set its "Mouse Sensitivity" as per your requirement if you want to)
 
 ## Player Movement (WASD or Arrow Keys)
 1. Go to your player object, click on add component and search "Character Controller" and hit Enter.
